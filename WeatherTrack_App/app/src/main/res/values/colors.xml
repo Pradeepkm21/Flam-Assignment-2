@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Primary Colors -->
+    <color name="primary_color">#4A90E2</color>
+    <color name="primary_dark_color">#357ABD</color>
+    <color name="primary_light_color">#7BB3F0</color>
+    
+    <!-- Accent Colors -->
+    <color name="accent_color">#FF6B35</color>
+    <color name="accent_light_color">#FF8A65</color>
+    <color name="accent_dark_color">#E65100</color>
+    
+    <!-- Background Colors -->
+    <color name="background_color">#F5F7FA</color>
+    <color name="surface_color">#FFFFFF</color>
+    <color name="card_background">#FFFFFF</color>
+    
+    <!-- Text Colors -->
+    <color name="text_primary">#212121</color>
+    <color name="text_secondary">#757575</color>
+    <color name="text_hint">#BDBDBD</color>
+    <color name="text_on_primary">#FFFFFF</color>
+    
+    <!-- Status Colors -->
+    <color name="success_color">#4CAF50</color>
+    <color name="warning_color">#FF9800</color>
+    <color name="error_color">#F44336</color>
+    <color name="info_color">#2196F3</color>
+    
+    <!-- Weather Condition Colors -->
+    <color name="sunny_color">#FFD54F</color>
+    <color name="cloudy_color">#90A4AE</color>
+    <color name="rainy_color">#42A5F5</color>
+    <color name="stormy_color">#5C6BC0</color>
+    <color name="snowy_color">#E1F5FE</color>
+    <color name="foggy_color">#B0BEC5</color>
+    
+    <!-- Temperature Colors -->
+    <color name="very_cold">#3F51B5</color>
+    <color name="cold">#2196F3</color>
+    <color name="cool">#00BCD4</color>
+    <color name="mild">#4CAF50</color>
+    <color name="warm">#FF9800</color>
+    <color name="hot">#FF5722</color>
+    <color name="very_hot">#D32F2F</color>
+    
+    <!-- Widget Colors -->
+    <color name="widget_background_start">#4A90E2</color>
+    <color name="widget_background_end">#357ABD</color>
+    <color name="widget_text">#FFFFFF</color>
+    <color name="widget_text_secondary">#E3F2FD</color>
+    
+    <!-- Divider and Border Colors -->
+    <color name="divider_color">#E0E0E0</color>
+    <color name="border_color">#BDBDBD</color>
+    
+    <!-- Overlay Colors -->
+    <color name="overlay_light">#80FFFFFF</color>
+    <color name="overlay_dark">#80000000</color>
+    
+    <!-- Notification Colors -->
+    <color name="notification_background">#4A90E2</color>
+    <color name="notification_text">#FFFFFF</color>
+    
+    <!-- Ripple Effect Colors -->
+    <color name="ripple_color">#20000000</color>
+    <color name="ripple_color_light">#10000000</color>
+</resources>
